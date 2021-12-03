@@ -103,7 +103,7 @@ public:
     ///added PostOrder
     void PostOrder();
     ///added PreOrder()
-    void PreOrder()
+    void PreOrder();
     void Insert(Bid bid);
     void Remove(string bidId);
     Bid Search(string bidId);
